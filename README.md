@@ -1,6 +1,6 @@
 # snake-game
-Jogo da Cobrinha (com suporte para dois jogadores) feito em python
+Snake game with 2 player support using pygame library
 
-## Instruções
-* Jogador 01: se move com as setas
-* Jogador 02: se move com as teclas WASD
+## How to Play
+* Player 01: Move with the arrows
+* Jogador 02: Move with WASD
